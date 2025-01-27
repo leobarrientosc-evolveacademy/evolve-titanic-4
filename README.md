@@ -19,13 +19,12 @@ El objetivo principal es identificar los factores que influyeron en la supervive
 
 ### Alcance del proyecto:
 
-El alcance suele variar según el análisis, pero generalmente se exploran estos aspectos:
+Este análisis se centrará en las variables más relevantes relacionadas con los pasajeros y su supervivencia. Utilizaremos técnicas de visualización de datos y modelos de machine learning para identificar patrones y correlaciones. Las técnicas específicas que se emplearán incluyen:
 
-- Exploración de datos: Se visualizan los datos para entender su distribución, buscar patrones y detectar valores atípicos.
-- Limpieza de datos: Se corrigen errores, se completan datos faltantes y se transforman las variables para que sean adecuadas para el análisis.
-- Ingeniería de características: Se crean nuevas variables a partir de las existentes para mejorar el poder predictivo del modelo. Por ejemplo, se puede crear una variable que indique si el pasajero viajaba solo o acompañado.
-- Modelado predictivo: Se construyen modelos de clasificación (regresión logística, árboles de decisión, etc.) para predecir la probabilidad de supervivencia en función de las características de los pasajeros.
-- Evaluación de modelos: Se evalúa la precisión de los modelos utilizando métricas como la precisión, la exhaustividad y la puntuación F1.
+
+- Análisis exploratorio de datos (EDA): Para comprender la distribución de las variables y detectar valores atípicos.
+- Visualizaciones: Histogramas, gráficos de barras, diagramas de dispersión y heatmaps para representar los datos de forma clara y concisa.
+- Modelado predictivo: Utilizaremos algoritmos de clasificación como la regresión logística para construir un modelo que prediga la probabilidad de supervivencia en función de las características de un pasajero.
 
 ### Técnicas utilizadas:
 
