@@ -48,6 +48,7 @@ Número de filas, columnas, variables principales.
 
 ### Limpieza y preprocesamiento:
 
+Como paso previo, habrá que realizar un anáisis general de la limpieza/coherencia de los datos suministrados
 Breve descripción de las tareas realizadas para preparar los datos para el análisis (manejo de valores faltantes, transformación de variables, etc.).
 
 # 4. Funcionalidades de la Aplicación
