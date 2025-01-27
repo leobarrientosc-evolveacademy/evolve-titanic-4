@@ -1,45 +1,31 @@
-# Titanic
+### Análisis de Supervivientes del Titanic con Streamlit
 
-## Análisis de Supervivientes del Titanic con Streamlit
+Esto es el análisis de Supervivientes del Titanic con Streamlit
 
-# 2. Introducción
+Subtítulo (opcional): Una breve descripción del objetivo principal del proyecto.
 
-## Breve resumen:
+Introducción
 
-Explica qué es el Titanic y por qué es un conjunto de datos popular para análisis.
+Breve resumen: Explica qué es el Titanic y por qué es un conjunto de datos popular para análisis.
 
-## Objetivo del proyecto:
+Objetivo del proyecto: ¿Qué preguntas se buscan responder con este análisis? (e.g., ¿Qué factores influyeron en la supervivencia?)
 
-¿Qué preguntas se buscan responder con este análisis? (e.g., ¿Qué factores influyeron en la supervivencia?)
+Alcance del proyecto: ¿Qué aspectos del dataset se exploran? ¿Qué técnicas se utilizan?
 
-## Alcance del proyecto:
+3. Datos Utilizados
 
-¿Qué aspectos del dataset se exploran? ¿Qué técnicas se utilizan?
+Fuente de los datos: De dónde se obtuvieron los datos (Kaggle, etc.)
 
-# 3. Datos Utilizados
+Descripción general del dataset: Número de filas, columnas, variables principales.
 
-## Fuente de los datos:
+Limpieza y preprocesamiento: Breve descripción de las tareas realizadas para preparar los datos para el análisis (manejo de valores faltantes, transformación de variables, etc.).
 
-De dónde se obtuvieron los datos (Kaggle, etc.)
+4. Funcionalidades de la Aplicación
 
-## Descripción general del dataset:
+Visualizaciones: ¿Qué tipos de visualizaciones se incluyen? (histogramas, gráficos de barras, diagramas de dispersión, etc.)
 
-Número de filas, columnas, variables principales.
+Interactividad: ¿Cómo puede el usuario interactuar con la aplicación? (filtros, selectores, etc.)
 
-## Limpieza y preprocesamiento:
+Análisis clave: ¿Cuáles son los hallazgos más importantes del análisis?
 
-Breve descripción de las tareas realizadas para preparar los datos para el análisis (manejo de valores faltantes, transformación de variables, etc.).
-
-# 4. Funcionalidades de la Aplicación
-
-## Visualizaciones:
-
-¿Qué tipos de visualizaciones se incluyen? (histogramas, gráficos de barras, diagramas de dispersión, etc.)
-
-## Interactividad:
-
-¿Cómo puede el usuario interactuar con la aplicación? (filtros, selectores, etc.)
-
-## Análisis clave:
-
-¿Cuáles son los hallazgos más importantes del análisis?
+> > > > > > > 1f9d0065cb87f4a9d274c4b049b98a2dae2b857f
