@@ -66,3 +66,5 @@ Hacer una análisis de la usabilidad de la aplicación por parte de los usuarios
 ### Análisis clave:
 
 ¿Cuáles son los hallazgos más importantes del análisis?
+
+Según lo que se quiera obtener, habrá que realizar preguntas
