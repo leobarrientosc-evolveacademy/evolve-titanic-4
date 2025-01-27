@@ -68,15 +68,26 @@ Creación de nuevas variables: Se crearon nuevas variables, como la edad en grup
 
 ### Visualizaciones:
 
-¿Qué tipos de visualizaciones se incluyen? (histogramas, gráficos de barras, diagramas de dispersión, etc.)
+La aplicación de Streamlit incluirá una variedad de visualizaciones interactivas, como:
+
+Histogramas: Para mostrar la distribución de variables numéricas como la edad y la tarifa.
+Gráficos de barras: Para comparar la proporción de supervivientes entre diferentes grupos (por ejemplo, por clase o sexo).
+Diagramas de dispersión: Para explorar la relación entre variables numéricas.
+Heatmaps: Para visualizar la correlación entre variables.
 
 ### Interactividad:
 
-¿Cómo puede el usuario interactuar con la aplicación? (filtros, selectores, etc.)
-Hacer una análisis de la usabilidad de la aplicación por parte de los usuarios.
+Los usuarios podrán interactuar con la aplicación de las siguientes maneras:
+
+Filtros: Seleccionar un rango de edades, una clase específica o un género para analizar subconjuntos de datos.
+Selectores: Elegir diferentes variables para comparar o visualizar.
+Tooltips: Obtener información detallada al pasar el cursor sobre los elementos de los gráficos.
 
 ### Análisis clave:
 
-¿Cuáles son los hallazgos más importantes del análisis?
+Los hallazgos clave del análisis incluirán:
 
-Según lo que se quiera obtener, habrá que realizar preguntas
+Importancia de la clase social: Los pasajeros de primera clase tuvieron una mayor probabilidad de supervivencia.
+Impacto del género: Las mujeres y los niños tuvieron una mayor tasa de supervivencia en comparación con los hombres.
+Efecto de la edad: Los niños muy pequeños y los adultos jóvenes tuvieron una mayor probabilidad de sobrevivir.
+Influencia del puerto de embarque: El puerto de embarque podría haber tenido un impacto en la supervivencia debido a la ubicación de los botes salvavidas.
