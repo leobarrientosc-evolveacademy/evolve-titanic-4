@@ -48,7 +48,8 @@ Número de filas, columnas, variables principales.
 
 ### Limpieza y preprocesamiento:
 
-Como paso previo, habrá que realizar un anáisis general de la limpieza/coherencia de los datos suministrados
+Como paso previo, habrá que realizar un anáisis general de la limpieza/coherencia de los datos suministrados.
+
 Breve descripción de las tareas realizadas para preparar los datos para el análisis (manejo de valores faltantes, transformación de variables, etc.).
 
 # 4. Funcionalidades de la Aplicación
@@ -60,6 +61,7 @@ Breve descripción de las tareas realizadas para preparar los datos para el aná
 ### Interactividad:
 
 ¿Cómo puede el usuario interactuar con la aplicación? (filtros, selectores, etc.)
+Hacer una análisis de la usabilidad de la aplicación por parte de los usuarios.
 
 ### Análisis clave:
 
