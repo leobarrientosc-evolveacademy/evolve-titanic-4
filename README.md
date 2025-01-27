@@ -1,6 +1,6 @@
-### Titanic
+# Titanic
 
-# Análisis de Supervivientes del Titanic con Streamlit
+### Análisis de Supervivientes del Titanic con Streamlit
 
 Esto es el análisis de Supervivientes del Titanic con Streamlit
 
