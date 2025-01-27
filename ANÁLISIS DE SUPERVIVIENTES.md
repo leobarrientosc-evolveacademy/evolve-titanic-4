@@ -1,3 +1,7 @@
+### Titanic
+
+# Análisis de Supervivientes del Titanic con Streamlit
+
 Esto es el análisis de Supervivientes del Titanic con Streamlit
 
 Subtítulo (opcional): Una breve descripción del objetivo principal del proyecto.
