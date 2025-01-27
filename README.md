@@ -40,17 +40,29 @@ Este análisis se centrará en las variables más relevantes relacionadas con lo
 
 ### Fuente de los datos:
 
-De dónde se obtuvieron los datos (Kaggle, etc.)
+El conjunto de datos utilizado en este proyecto se obtuvo de Kaggle, una popular plataforma de ciencia de datos.
+
 
 ### Descripción general del dataset:
 
-Número de filas, columnas, variables principales.
+El dataset del Titanic contiene aproximadamente [número] filas (pasajeros) y [número] columnas (variables). Las principales variables incluyen:
+
+Survived: Indica si el pasajero sobrevivió (1) o no (0).
+Pclass: Clase del billete (1 = Primera, 2 = Segunda, 3 = Tercera).
+Sex: Sexo del pasajero.
+Age: Edad del pasajero.
+SibSp: Número de hermanos/cónyuges a bordo.
+Parch: Número de padres/hijos a bordo.   
+Fare: Tarifa del pasaje.
+Embarked: Puerto de embarque (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 ### Limpieza y preprocesamiento:
 
-Como paso previo, habrá que realizar un anáisis general de la limpieza/coherencia de los datos suministrados.
+Antes de realizar el análisis, se llevaron a cabo las siguientes tareas de limpieza y preprocesamiento:
 
-Breve descripción de las tareas realizadas para preparar los datos para el análisis (manejo de valores faltantes, transformación de variables, etc.).
+Manejo de valores faltantes: Se imputaron los valores faltantes de la edad utilizando la mediana.
+Codificación de variables categóricas: Se convirtieron las variables categóricas (como el sexo y el puerto de embarque) en variables numéricas utilizando técnicas de one-hot encoding.
+Creación de nuevas variables: Se crearon nuevas variables, como la edad en grupos, para explorar relaciones más profundas.
 
 # 4. Funcionalidades de la Aplicación
 
