@@ -1,4 +1,4 @@
-# TITANIC #
+## TITANIC ##
 
 ### Análisis de Supervivientes del Titanic con Streamlit
 
