@@ -1,7 +1,7 @@
 # Titanic
 
 ### Análisis de Supervivientes del Titanic con Streamlit
-
+###
 # 2. Introducción
 
 ### Breve resumen:
